@@ -1,4 +1,4 @@
-# Dxlib_ActionGam
+# Dxlib_ActionGames
 アクションゲームの基本的動作が作られているサンプルプログラムです。
 大体創意製作中。
 
